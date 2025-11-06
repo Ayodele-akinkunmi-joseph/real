@@ -30,7 +30,7 @@ export default function LandingPage() {
     },
     {
       q: "When do I start earning money?",
-      a: "You can post content immediately, but monetization starts once you reach 1,000 followers. After that, you earn ₦4 per 1,000 views on your content.",
+      a: "You can post content immediately, but monetization starts once you reach 1,000 followers. After that, you earn$4per 1,000 views on your content.",
     },
     {
       q: "What payment methods do you support?",
@@ -231,7 +231,7 @@ export default function LandingPage() {
               </div>
               <h3 className="text-2xl font-bold">Create & Earn</h3>
               <p className="text-muted-foreground">
-                Post videos, gain followers, and start monetizing. Earn ₦4 per 1,000 views instantly.
+                Post videos, gain followers, and start monetizing. Earn$4per 1,000 views instantly.
               </p>
             </div>
             <div className="space-y-4">
@@ -285,7 +285,7 @@ export default function LandingPage() {
                 </li>
                 <li className="flex gap-3">
                   <Check className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                  <span>Earn ₦4 per 1,000 views per content</span>
+                  <span>Earn$4per 1,000 views per content</span>
                 </li>
                 <li className="flex gap-3">
                   <Check className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
@@ -558,7 +558,7 @@ export default function LandingPage() {
                     <div>
                       <p className="font-semibold text-foreground">Email</p>
                       <a href="mailto:support@vibenpay.com" className="text-primary hover:underline">
-                        support@vibenpay.com
+                       vibenpay@gmail.com
                       </a>
                     </div>
                   </div>
@@ -569,7 +569,7 @@ export default function LandingPage() {
                     <div>
                       <p className="font-semibold text-foreground">Phone</p>
                       <a href="tel:+2341234567890" className="text-primary hover:underline">
-                        +234 123 456 7890
+                        07033073970, 07084345640
                       </a>
                     </div>
                   </div>

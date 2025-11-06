@@ -590,7 +590,7 @@ export default function SocialPage() {
               <div className="bg-blue-50 border border-blue-200 rounded-lg p-3">
                 <div className="flex gap-2 text-xs text-blue-900">
                   <Users className="w-4 h-4 flex-shrink-0" />
-                  <p>You can earn ₦4 per 1,000 viewers. Go live to start earning!</p>
+                  <p>You can earn$4per 1,000 viewers. Go live to start earning!</p>
                 </div>
               </div>
 
